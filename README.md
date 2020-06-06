@@ -6,3 +6,5 @@ Naqsh is intended to be a long-term independent coding project. It mainly serves
 Here's to almost-maddening oddly-therapeutic hours of debugging that wait ahead
 
 :)
+
+An incomplete concept is available on [Figma](https://www.figma.com/proto/gqTNfnavgmJ77kCHSqTnGp/naqsh.app?node-id=1%3A2&scaling=min-zoom)
